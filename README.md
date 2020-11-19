@@ -7,7 +7,8 @@ The other open-source projects are introduced in [[here](https://awesomeopensour
 ---
 ### Tutorial code 
 > 1) *Person_reID_baseline_pytorch*
->    * [[github](https://github.com/layumi/Person_reID_baseline_pytorch)]
-> 2) Open-ReID [[github](https://github.com/Cysu/open-reid)]
+>    * [[github](https://github.com/layumi/Person_reID_baseline_pytorch)][[blog]]
+> 2) Open-ReID 
+>    * [[github](https://github.com/Cysu/open-reid)] / [[blog](https://cysu.github.io/open-reid/index.html)]
 
 ---
