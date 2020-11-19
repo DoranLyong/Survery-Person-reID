@@ -16,7 +16,7 @@ The other open-source projects are introduced in [here](https://awesomeopensourc
 >    * [github](https://github.com/KaiyangZhou/deep-person-reid) / [blog](https://kaiyangzhou.github.io/deep-person-reid/)
 > 5) *serend1p1ty / person_search* : pedestrian-detection + reID
 >    * [github](https://github.com/serend1p1ty/person_search) / blog
-> 6) *dmlc / gluon-cv*
+> 6) *dmlc / gluon-cv* : API toolkits 
 >    * [github](https://github.com/dmlc/gluon-cv) / [blog](https://cv.gluon.ai/)
 > 7) *michuanhaohao / reid-strong-baseline* : CVPR2019 workshop
 >    * [github](https://github.com/michuanhaohao/reid-strong-baseline) / blog 
