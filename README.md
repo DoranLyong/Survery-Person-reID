@@ -10,6 +10,6 @@ The other open-source projects are introduced in [[here](https://awesomeopensour
 >    * [github](https://github.com/layumi/Person_reID_baseline_pytorch)][[blog] / blog 
 > 2) *Cysu/Open-ReID* 
 >    * [github](https://github.com/Cysu/open-reid) / [blog](https://cysu.github.io/open-reid/index.html)
-> 3) * open-mmlab / OpenUnReID* 
+> 3) *open-mmlab / OpenUnReID* 
 >    * [github](https://github.com/open-mmlab/OpenUnReID) / [blog]
 ---
