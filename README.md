@@ -25,3 +25,9 @@ The other open-source projects are introduced in [here](https://awesomeopensourc
 > 9) *huanghoujing / person-reid-triplet-loss-baseline* : Triplet-based reID
 >    * [github](https://github.com/huanghoujing/person-reid-triplet-loss-baseline) / blog
 ---
+
+### Datasets 
+> 1) [NEU-Gou / awesome-reid-dataset](https://github.com/NEU-Gou/awesome-reid-dataset) : dataset-overview
+
+
+--- 
