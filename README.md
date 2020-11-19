@@ -27,7 +27,8 @@ The other open-source projects are introduced in [here](https://awesomeopensourc
 ---
 
 ### Datasets 
-> 1) [NEU-Gou / awesome-reid-dataset](https://github.com/NEU-Gou/awesome-reid-dataset) : dataset-overview
+> 1) [NEU-Gou / awesome-reid-dataset](https://github.com/NEU-Gou/awesome-reid-dataset) : dataset overview
+> 2) [Person Re-identification Datasets](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html) : original link of NEU-Gou
 
 
 --- 
