@@ -18,6 +18,6 @@ The other open-source projects are introduced in [here](https://awesomeopensourc
 >    * [github](https://github.com/serend1p1ty/person_search) / blog
 > 6) *dmlc / gluon-cv*
 >    * [github](https://github.com/dmlc/gluon-cv) / [blog](https://cv.gluon.ai/)
-> 7) * michuanhaohao / reid-strong-baseline - CVPR2019 workshop
+> 7) * michuanhaohao / reid-strong-baseline* - CVPR2019 workshop
 >    * [github](https://github.com/michuanhaohao/reid-strong-baseline)
 ---
