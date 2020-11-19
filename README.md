@@ -8,11 +8,11 @@ The other open-source projects are introduced in [here](https://awesomeopensourc
 ## Code Tutorial
 > 1) *layumi/Person_reID_baseline_pytorch*
 >    * [github](https://github.com/layumi/Person_reID_baseline_pytorch) / blog 
-> 2) *Cysu/Open-ReID* : a lightweight library for person reID
+> 2) *Cysu/Open-ReID* : a lightweight library for person reID (a.k.a., Openreid)
 >    * [github](https://github.com/Cysu/open-reid) / [blog](https://cysu.github.io/open-reid/index.html)
 > 3) *open-mmlab / OpenUnReID* 
 >    * [github](https://github.com/open-mmlab/OpenUnReID) / blog
-> 4) *KaiyangZhou / deep-person-reid* : library for deep learning-based re-ID
+> 4) *KaiyangZhou / deep-person-reid* : a library for deep learning-based re-ID (a.k.a., Torchreid)
 >    * [github](https://github.com/KaiyangZhou/deep-person-reid) / [blog](https://kaiyangzhou.github.io/deep-person-reid/)
 > 5) *serend1p1ty / person_search* : pedestrian-detection + reID
 >    * [github](https://github.com/serend1p1ty/person_search) / blog
