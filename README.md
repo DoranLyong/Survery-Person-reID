@@ -19,5 +19,9 @@ The other open-source projects are introduced in [here](https://awesomeopensourc
 > 6) *dmlc / gluon-cv*
 >    * [github](https://github.com/dmlc/gluon-cv) / [blog](https://cv.gluon.ai/)
 > 7) *michuanhaohao / reid-strong-baseline* : CVPR2019 workshop
->    * [github](https://github.com/michuanhaohao/reid-strong-baseline)
+>    * [github](https://github.com/michuanhaohao/reid-strong-baseline) / blog 
+> 8) *qiaoguan / Person-reid-GAN-pytorch* : GAN-based reID
+>    * [github](https://github.com/qiaoguan/Person-reid-GAN-pytorch) / blog
+> 9) *huanghoujing / person-reid-triplet-loss-baseline* : Triplet-based reID
+>    * [github](https://github.com/huanghoujing/person-reid-triplet-loss-baseline) / blog
 ---
