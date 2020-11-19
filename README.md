@@ -8,7 +8,7 @@ The other open-source projects are introduced in [here](https://awesomeopensourc
 ## Code Tutorial
 > 1) *layumi/Person_reID_baseline_pytorch*
 >    * [github](https://github.com/layumi/Person_reID_baseline_pytorch) / blog 
-> 2) *Cysu/Open-ReID* 
+> 2) *Cysu/Open-ReID* : a lightweight library for person reID
 >    * [github](https://github.com/Cysu/open-reid) / [blog](https://cysu.github.io/open-reid/index.html)
 > 3) *open-mmlab / OpenUnReID* 
 >    * [github](https://github.com/open-mmlab/OpenUnReID) / blog
